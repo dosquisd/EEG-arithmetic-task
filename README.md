@@ -5,10 +5,8 @@ acerca de la actividad cerebral antes y durante de operaciones aritmeticas hecha
 
 Este proyecto fue propuesto por el semillero de investigación en ciencia de datos gracias al profesor Andy Domínguez
 
+El contexto del caso:  
+<https://www.mdpi.com/2306-5729/4/1/14>
 
-
-El contexto del caso:
-https://www.mdpi.com/2306-5729/4/1/14
-
-Los datos de cada uno de los sujetos:
-https://physionet.org/content/eegmat/1.0.0/
+Los datos de cada uno de los sujetos:  
+<https://physionet.org/content/eegmat/1.0.0/>
